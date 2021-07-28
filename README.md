@@ -4,7 +4,7 @@ This is a easy Linker Program, after reading the programmer's self-cultivation, 
 
 ## Recommended books
 
-- CSPP
+- CSAPP
 - 程序员的自我修养
 
 ## Very good course 
